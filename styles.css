@@ -140,7 +140,7 @@ div:hover{
 
 @media screen and (min-width: 600px) and (max-width: 1000px) {
     body{
-        background-color: rgb(123, 43, 43);
+        background-color: rgb(255, 255, 255);
     }
     h2{
         font-size: 3rem;
